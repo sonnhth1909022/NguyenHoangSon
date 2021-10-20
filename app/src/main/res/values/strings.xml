@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NguyenHoangSon</string>
+    <string-array name="selection">
+        <item>Gripe</item>
+        <item>Selection 2</item>
+        <item>Selection 3</item>
+
+    </string-array>
+</resources>
